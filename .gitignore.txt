@@ -1,0 +1,2 @@
+# do not include in git all files in dummyignore
+dummyignore/
